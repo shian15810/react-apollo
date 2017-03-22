@@ -84,7 +84,7 @@
     "@types/react": "^15.0.12",
     "@types/react-addons-test-utils": "^0.14.14",
     "@types/react-dom": "^0.14.16",
-    "@types/react-redux": "^4.4.31",
+    "@types/react-redux": "4.4.37",
     "@types/redux-form": "^6.3.2",
     "@types/redux-immutable": "^3.0.30",
     "@types/sinon": "^1.16.29",
